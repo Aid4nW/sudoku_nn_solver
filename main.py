@@ -8,7 +8,6 @@ import numpy as np
 from torch.optim.lr_scheduler import OneCycleLR
 import os
 import argparse
-import math
 
 os.makedirs('models', exist_ok=True)
 
